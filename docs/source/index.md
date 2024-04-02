@@ -1,4 +1,4 @@
-# **my-package**
+# **thors-project-123**
 
 ```{toctree}
 :maxdepth: 2
@@ -16,7 +16,7 @@ overview
 CHANGELOG
 CONTRIBUTING
 License <https://raw.githubusercontent.com/allenai/python-package-template/main/LICENSE>
-GitHub Repository <https://github.com/THOR300/my-package>
+GitHub Repository <https://github.com/THOR300/thors-project-123>
 ```
 
 ## Indices and tables
