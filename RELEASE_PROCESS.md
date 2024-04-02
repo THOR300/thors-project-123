@@ -4,6 +4,8 @@
 
 1. Update the version in `my_package/version.py`.
 
+2. Make an entry in the Changelog if the change/s is not already captured there.
+
 3. Run the release script:
 
     ```bash
