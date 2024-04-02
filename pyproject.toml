@@ -24,9 +24,9 @@ dependencies = [
 license = {file = "LICENSE"}
 
 [project.urls]
-Homepage = "https://github.com/allenai/python-package-template"
-Repository = "https://github.com/allenai/python-package-template"
-Changelog = "https://github.com/allenai/python-package-template/blob/main/CHANGELOG.md"
+Homepage = "https://github.com/THOR300/my-package"
+Repository = "https://github.com/THOR300/my-package"
+Changelog = "https://github.com/THOR300/my-package/blob/main/CHANGELOG.md"
 # Documentation = "https://my-package.readthedocs.io/"
 
 [project.optional-dependencies]

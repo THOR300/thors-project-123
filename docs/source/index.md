@@ -16,7 +16,7 @@ overview
 CHANGELOG
 CONTRIBUTING
 License <https://raw.githubusercontent.com/allenai/python-package-template/main/LICENSE>
-GitHub Repository <https://github.com/allenai/python-package-template>
+GitHub Repository <https://github.com/THOR300/my-package>
 ```
 
 ## Indices and tables
