@@ -17,7 +17,7 @@ To install **my-package** from source, first clone [the repository](https://gith
 
 ```bash
 git clone https://github.com/THOR300/my-package.git
-cd my_package
+cd my-package
 ```
 
 Then run
