@@ -1,7 +1,7 @@
 from datetime import datetime
 from pathlib import Path
 
-from my_package.version import VERSION
+from thors_project_123.version import VERSION
 
 
 def main():
@@ -27,7 +27,7 @@ def main():
     lines.insert(insert_index, "\n")
     lines.insert(
         insert_index + 1,
-        f"## [v{VERSION}](https://github.com/THOR300/my-package/releases/tag/v{VERSION}) - "
+        f"## [v{VERSION}](https://github.com/THOR300/thors-project-123/releases/tag/v{VERSION}) - "
         f"{datetime.now().strftime('%Y-%m-%d')}\n",
     )
 
