@@ -10,8 +10,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - v0.1.1 Tested that release flow by bumping the version.
 - v0.1.2 Tested that release flow by bumping the version.
 - v0.1.4 Tested that release flow by bumping the version.
+- v0.1.5 Tested that release flow by bumping the version.
 
 ## Unreleased
+
+## [v0.1.5](https://github.com/THOR300/thors-project-123/releases/tag/v0.1.5) - 2024-04-02
 
 ## [v0.1.4](https://github.com/THOR300/thors-project-123/releases/tag/v0.1.4) - 2024-04-02
 
